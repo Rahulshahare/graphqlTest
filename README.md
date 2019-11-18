@@ -1,2 +1,2 @@
 # graphqlTest
-GraphQL (Test)[https://sudden-dinosaur.glitch.me]
+GraphQL [Test](https://sudden-dinosaur.glitch.me)
